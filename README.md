@@ -10,7 +10,7 @@
 * PyTorch Geometric 2.0 or higher
 * Python 3.8 or higher
 
-## What this code is and isn't
+## What this code is
 This is a working framework for performing electron energy regression with ProtoDUNE data using a dynamic reduction network. This code will eventually be pubically released, along with data, for benchmarking purposes.
 
 ## Running the code
